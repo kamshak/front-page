@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+nav{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    background-color: rgb(248, 243, 243);
+    width: 10%;
+    overflow: hidden;
+}
+h1{
+    color: blue;
+    margin-top: 30%;
+
+}
+ol{
+    margin-top: 30%;
+}
+main{
+    margin-left: 11%;
+    margin-top: 3%;
+    display: flex;
+    flex-direction: row;
+    width: 22%;
+    padding-left: 1%;
+    background-color: rgb(230, 227, 227);
+    border: 1px solid rgb(230, 227, 227);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.little{
+    margin-left: 13%;
+    display: flex;
+    padding-top: 2%;
+}
+.part{
+    margin: 10px;
+    border: 1px solid rgb(219, 219, 219);
+    width: 6%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    font-size: 12px;
+    border-radius: 3px;
+    justify-content: center;
+}
+h5{
+    margin: 10px;
+    margin-left: 65%;
+    border: 1px solid blue;
+    border-radius: 3px;
+    width: 8%;  
+    font-size: 15px;
+    background-color: rgb(2, 2, 199);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+section{
+    padding-top: 2%;
+    display: flex;
+    justify-content: space-around;
+}
+.large{
+    border: 1px solid blue;   
+    margin-left: 10%;
+    width: 20%; 
+    border-radius: 3px;
+    font-size: 13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.huge{
+    margin-left: 11%;
+    padding-top: 2%;
+    width: 20%;
+    display: flex;  
+}
+.cat{
+    margin-left: 16%;
+    padding-top: 2%;
+    display: flex;  
+    height: 12%;
+}
+.cast{
+    margin-left: 13%;
+    padding-top: 2%;
+    display: flex;  
+    height: 12%;
+}
+.bag{
+    background-color: rgb(238, 148, 148);
+    margin: 10px;
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid rgb(238, 148, 148);;
+}
+.bagg{
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid rgb(231, 225, 214);
+    background-color: rgb(250, 237, 212);
+    font-size: 14px;
+    color: purple;
+}
+.bags{
+    font-size: 14px;
+    margin: 10px;
+    border: 1px solid rgb(231, 190, 231);
+    background-color: rgb(231, 190, 231);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.all{
+    display: flex;
+}
+.rush{
+    margin: 10px;    border: 1px solid rgb(179, 175, 175);
+    background-color: rgb(179, 175, 175);
+    color: rgb(236, 138, 26);
+}
+.rub{
+    margin: 10px;
+    color: purple;
+    border: 1px solid rgb(179, 175, 175);
+    background-color: rgb(179, 175, 175);
+}
+.ras{
+    margin: 10px;
+    border: 1px solid rgb(179, 175, 175);
+    color: rgb(247, 87, 113);
+    background-color: rgb(179, 175, 175);
+}
+.bat{
+    display: flex;
+    margin: 10px;
+    border: 1px solid rgb(179, 175, 175);
+    background-color: rgb(179, 175, 175);
+    color: rgb(236, 138, 26);
+}
+.bax{
+    margin: 10px;
+    color: purple;
+    border: 1px solid rgb(179, 175, 175);
+    background-color: rgb(179, 175, 175);
+}
+.bas{
+    margin: 10px;
+    border: 1px solid rgb(179, 175, 175);
+    color: rgb(247, 87, 113);
+    background-color: rgb(179, 175, 175);
+}
+aside{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 2%;
+}
+p{
+    margin-top: 3%;
+}
+h4{
+    padding-top: 2%;
+}
+.mol{
+    margin-left: 8%;
+    border: 1px solid rgb(241, 239, 239);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    padding: 1%;
+    border-radius: 3%;
+    background-color: rgb(241, 239, 239);
+}
+.nan{
+    margin-left: 8%;
+    border: 1px solid rgb(241, 239, 239);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 17vh;
+    padding: 1%;
+    border-radius: 3%;
+    font-size: 14px;
+    background-color: rgb(241, 239, 239);
+}
+.kyen{
+    margin-left: 8%;
+    padding: 1%;
+    border-radius: 3%;
+    border: 1px solid rgb(241, 239, 239);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    background-color: rgb(241, 239, 239);
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 2%;
+}
+.chinny{
+    display: flex;
+}
+@media screen {
+    
+}
